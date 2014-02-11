@@ -3,4 +3,3 @@
 
 Selected poems from this list:
 * The Raven
-* Tell-Tale Heart
