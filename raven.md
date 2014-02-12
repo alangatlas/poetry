@@ -14,3 +14,5 @@ Eagerly I wished the morrow; - vainly I had sought to borrow
 From my books surcease of sorrow - sorrow for the lost Lenore -
 For the rare and radiant maiden whom the angels name Lenore -
 Nameless here for evermore.
+
+And the silken sad uncertain rustling of each purple curtains
