@@ -1,4 +1,4 @@
-#The Rave
+#The Raven
 ## Edgar Allan Poe
 
 Once upon a midnight dreary, while I pondered weak and weary,
@@ -14,3 +14,6 @@ Eagerly I wished the morrow; - vainly I had sought to borrow
 From my books surcease of sorrow - sorrow for the lost Lenore -
 For the rare and radiant maiden whom the angels name Lenore -
 Nameless here for evermore.
+
+And the silken sad uncertain rustling of each purple curtain
+Thrilled me - filled me with fantastic terrors never felt before;
