@@ -1,4 +1,4 @@
-#The Rave
+#The Raven
 ## Edgar Allan Poe
 
 Once upon a midnight dreary, while I pondered weak and weary,
@@ -16,3 +16,5 @@ For the rare and radiant maiden whom the angels name Lenore -
 Nameless here for evermore.
 
 And the silken sad uncertain rustling of each purple curtain
+Thrilled me - filled me with fantastic terrors never felt before;
+So that now, to still the beating of my heart, I stood repeating
